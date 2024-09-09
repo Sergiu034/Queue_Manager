@@ -1,0 +1,169 @@
+
+Time 0
+Waiting: (1, 29, 3);(2, 28, 3);(3, 8, 3);(4, 7, 4);
+Queue 1 : closed
+Queue 2 : closed
+
+Time 1
+Waiting: (1, 29, 3);(2, 28, 3);(3, 8, 3);(4, 7, 4);
+Queue 1 : closed
+Queue 2 : closed
+
+Time 2
+Waiting: (1, 29, 3);(2, 28, 3);(3, 8, 3);(4, 7, 4);
+Queue 1 : closed
+Queue 2 : closed
+
+Time 3
+Waiting: (1, 29, 3);(2, 28, 3);(3, 8, 3);(4, 7, 4);
+Queue 1 : closed
+Queue 2 : closed
+
+Time 4
+Waiting: (1, 29, 3);(2, 28, 3);(3, 8, 3);(4, 7, 4);
+Queue 1 : closed
+Queue 2 : closed
+
+Time 5
+Waiting: (1, 29, 3);(2, 28, 3);(3, 8, 3);(4, 7, 4);
+Queue 1 : closed
+Queue 2 : closed
+
+Time 6
+Waiting: (1, 29, 3);(2, 28, 3);(3, 8, 3);(4, 7, 4);
+Queue 1 : closed
+Queue 2 : closed
+
+Time 7
+Waiting: (1, 29, 3);(2, 28, 3);(3, 8, 3);
+Queue 1 : (4, 7, 4);
+Queue 2 : closed
+
+Time 8
+Waiting: (1, 29, 3);(2, 28, 3);
+Queue 1 : (4, 7, 3);
+Queue 2 : (3, 8, 3);
+
+Time 9
+Waiting: (1, 29, 3);(2, 28, 3);
+Queue 1 : (4, 7, 2);
+Queue 2 : (3, 8, 2);
+
+Time 10
+Waiting: (1, 29, 3);(2, 28, 3);
+Queue 1 : (4, 7, 1);
+Queue 2 : (3, 8, 1);
+
+Time 11
+Waiting: (1, 29, 3);(2, 28, 3);
+Queue 1 : closed
+Queue 2 : closed
+
+Time 12
+Waiting: (1, 29, 3);(2, 28, 3);
+Queue 1 : closed
+Queue 2 : closed
+
+Time 13
+Waiting: (1, 29, 3);(2, 28, 3);
+Queue 1 : closed
+Queue 2 : closed
+
+Time 14
+Waiting: (1, 29, 3);(2, 28, 3);
+Queue 1 : closed
+Queue 2 : closed
+
+Time 15
+Waiting: (1, 29, 3);(2, 28, 3);
+Queue 1 : closed
+Queue 2 : closed
+
+Time 16
+Waiting: (1, 29, 3);(2, 28, 3);
+Queue 1 : closed
+Queue 2 : closed
+
+Time 17
+Waiting: (1, 29, 3);(2, 28, 3);
+Queue 1 : closed
+Queue 2 : closed
+
+Time 18
+Waiting: (1, 29, 3);(2, 28, 3);
+Queue 1 : closed
+Queue 2 : closed
+
+Time 19
+Waiting: (1, 29, 3);(2, 28, 3);
+Queue 1 : closed
+Queue 2 : closed
+
+Time 20
+Waiting: (1, 29, 3);(2, 28, 3);
+Queue 1 : closed
+Queue 2 : closed
+
+Time 21
+Waiting: (1, 29, 3);(2, 28, 3);
+Queue 1 : closed
+Queue 2 : closed
+
+Time 22
+Waiting: (1, 29, 3);(2, 28, 3);
+Queue 1 : closed
+Queue 2 : closed
+
+Time 23
+Waiting: (1, 29, 3);(2, 28, 3);
+Queue 1 : closed
+Queue 2 : closed
+
+Time 24
+Waiting: (1, 29, 3);(2, 28, 3);
+Queue 1 : closed
+Queue 2 : closed
+
+Time 25
+Waiting: (1, 29, 3);(2, 28, 3);
+Queue 1 : closed
+Queue 2 : closed
+
+Time 26
+Waiting: (1, 29, 3);(2, 28, 3);
+Queue 1 : closed
+Queue 2 : closed
+
+Time 27
+Waiting: (1, 29, 3);(2, 28, 3);
+Queue 1 : closed
+Queue 2 : closed
+
+Time 28
+Waiting: (1, 29, 3);
+Queue 1 : (2, 28, 3);
+Queue 2 : closed
+
+Time 29
+Waiting:
+Queue 1 : (2, 28, 2);
+Queue 2 : (1, 29, 3);
+
+Time 30
+Waiting:
+Queue 1 : (2, 28, 1);
+Queue 2 : (1, 29, 2);
+
+Time 31
+Waiting:
+Queue 1 : closed
+Queue 2 : (1, 29, 1);
+
+Time 32
+Waiting:
+Queue 1 : closed
+Queue 2 : closed
+
+Average waiting time: 1.625
+Average Service time: 3.25
+Peak hour: 8
